@@ -13,8 +13,10 @@
 
 ### Ответ:
 
-![image](https://user-images.githubusercontent.com/122297912/236702011-2d9f5586-76cb-4508-8b38-a212e9ede646.png)
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/1f311a7a-d2c0-4683-9152-cc4ae49e8095)
+
 ![image](https://user-images.githubusercontent.com/122297912/236702041-48156651-0d75-494c-b14f-d07bc50c325b.png)
+
 ![image](https://user-images.githubusercontent.com/122297912/236702100-a8b8100c-e822-4263-91db-7e6c3c5c0653.png)
 
 
