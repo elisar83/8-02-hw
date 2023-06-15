@@ -15,7 +15,7 @@
 
 ![image](https://github.com/elisar83/8-02-hw/assets/122297912/1f311a7a-d2c0-4683-9152-cc4ae49e8095)
 
-![image](https://github.com/elisar83/8-02-hw/assets/122297912/e7ab7b69-550e-47c4-9ddd-d9bbba2a13cb)
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/4de7bf73-a33d-47e5-b716-c38d1a1c1b1b)
 
 ![image](https://user-images.githubusercontent.com/122297912/236702100-a8b8100c-e822-4263-91db-7e6c3c5c0653.png)
 
