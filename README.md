@@ -28,21 +28,23 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 ```
-pipeline {
-    agent any
-    stages {
-        stage('Test') {
-            steps {
-                sh '/usr/local/go/bin/go test .'
-            }
-        }
-        stage('Build Docker Image') {
-            steps {
-                sh 'docker build . -t ubuntu-bionic:8082/hello-world:v${BUILD_NUMBER}'
-            }
-        }
-    }
-}
+ipeline {
+ agent any
+ stages {
+  stage('Git') {
+   steps {git 'https://github.com/netology-code/sdvps-materials.git'}
+  }
+  stage('Test') {
+   steps {
+    sh 'go test .'
+   }
+  }
+  stage('Build') {
+   steps {
+    sh 'docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER'
+   }
+  }
+ }
 ```
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
