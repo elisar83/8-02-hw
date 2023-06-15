@@ -71,3 +71,8 @@ pipeline {
 
 ![image](https://github.com/elisar83/8-02-hw/assets/122297912/3061db0a-e370-4180-9dcb-2f468e6e012b)
 
+Добавляем третий шаг в my_pipe1:
+
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/a75e3436-5aa6-4a33-b3c6-cd8a78fe7d4d)
+
+
