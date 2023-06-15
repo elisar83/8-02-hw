@@ -17,7 +17,7 @@
 
 ![image](https://github.com/elisar83/8-02-hw/assets/122297912/4de7bf73-a33d-47e5-b716-c38d1a1c1b1b)
 
-![image](https://user-images.githubusercontent.com/122297912/236702100-a8b8100c-e822-4263-91db-7e6c3c5c0653.png)
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/43fe43bc-d253-42ba-ba24-66b8868ea11b)
 
 
 ### Задание 2
