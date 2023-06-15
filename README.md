@@ -77,5 +77,10 @@ pipeline {
 
 ![image](https://github.com/elisar83/8-02-hw/assets/122297912/d3acfafd-e293-4771-ac63-d7d85ddf088e)
 
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/508b83f9-b3fc-4d61-aabf-fe1a2b28edd4)
+
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/f828e4bd-771c-4189-ade8-844118ad7de3)
+
+
 
 
