@@ -27,29 +27,33 @@
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
-```
-ipeline {
- agent any
- stages {
-  stage('Git') {
-   steps {git 'https://github.com/netology-code/sdvps-materials.git'}
-  }
-  stage('Test') {
-   steps {
-    sh 'go test .'
-   }
-  }
-  stage('Build') {
-   steps {
-    sh 'docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER'
-   }
-  }
- }
-```
-
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
----
+### Ответ:
+```
+pipeline {
+    agent any
+    stages {
+        stage('Git') {
+            steps {
+                git 'https://github.com/elisar83/8-02-hw.git'
+            }
+        }
+        stage('Test') {
+            steps {
+                sh 'go test .'
+            }
+        }
+        stage('Build') {
+            steps {
+                sh 'docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER'
+            }
+        }
+    }
+}
+ 
+```
+![image](https://github.com/elisar83/8-02-hw/assets/122297912/41b27c92-1545-4d0b-a4dd-e297ae685175)
 
 
 ### Задание 3
